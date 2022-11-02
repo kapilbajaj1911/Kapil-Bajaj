@@ -1,6 +1,18 @@
-title: Kapil Bajaj
+title: <p align="center"> Kapil Bajaj</p>
 logo: /assets/img/logo.png
-description: Kapil Bajaj Personla Page
-show_downloads: true
-google_analytics:
+
+description:
+  <p align="center">
+   <a href="https://www.linkedin.com/in/kapil-bajaj-2999bba/">LinkedIn</a> |
+  <a href="https://github.com/kapilbajaj1911">GitHub</a>
+  
+  <br>   
+  I'm working on Data Science, Big Data, Spark, Machine learning & NLP related problems.
+  Also handing the Big Data from real-time Ad call data.
+
+  <br>
+  </p>
+
+
+
 theme: jekyll-theme-minimal
